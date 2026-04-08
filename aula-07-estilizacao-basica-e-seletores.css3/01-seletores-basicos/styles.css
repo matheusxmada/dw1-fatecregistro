@@ -92,3 +92,12 @@ li {
 .observacoes h2 {
     color:#8cc9e4
 }
+
+.botao {
+    background-color:#ff6347;
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
